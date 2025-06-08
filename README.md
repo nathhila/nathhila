@@ -17,7 +17,7 @@ player1.hobbys('Jiu-Jitsu')
 
 
 - 🖥️ I’m currently working on Python Developer
-- 🤓 I’m into LLMs and Deep Learning stuff
+- 🤓 I’m into Deep Learning and LLMs stuff
 - 🥰 I love cats, jiu-jitsu and açai
 
 
