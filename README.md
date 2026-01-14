@@ -8,7 +8,7 @@ class Eu():
     def hobbys(self, fav_thing):
         self.fav_thing = fav_thing
 
-player1 = Eu('Náthila', 22, 'Python')
+player1 = Eu('Náthila', 23, 'Python')
 player1.hobbys('Jiu-Jitsu')
 ````
 
