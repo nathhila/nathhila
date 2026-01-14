@@ -1,4 +1,4 @@
-````md
+````python
 class Eu():
     def __init__(self, name, age, best_programmer_language):
         self.name = name
