@@ -18,8 +18,6 @@ player1.hobbys('Jiu-Jitsu')
 
 ---
 
-### 🛠️ Tech Stack
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -37,4 +35,4 @@ player1.hobbys('Jiu-Jitsu')
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-```
+
