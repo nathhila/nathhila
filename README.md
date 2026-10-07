@@ -8,7 +8,7 @@ class Eu():
     def hobbys(self, fav_thing):
         self.fav_thing = fav_thing
 
-player1 = Eu('Náthila', 23, 'Python')
+player1 = Eu('Náthila', 24, 'Python')
 player1.hobbys('Jiu-Jitsu')
 ````
 
@@ -20,6 +20,7 @@ player1.hobbys('Jiu-Jitsu')
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
